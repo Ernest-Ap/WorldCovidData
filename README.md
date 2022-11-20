@@ -1,11 +1,11 @@
 # WorldCovidData
-## Dashboard displaying world Covid-19 data between 2020-2021. Using SQL queries/tables, next turning them into visualisations then into a dashboard using Tableau.
+## Dashboard displaying world Covid-19 data between 2020-2021. Using SQL queries/tables, next turning them into visualizations then into a dashboard using Tableau.
 ### Images and Gifs below click to expand.
 
 Software used: 
 <li>Microsoft SQL Server: For Data Exploration and to transfer the queries/tables to Excel. 
 <li>Microsoft Excel: To create four separate files/tables to import into Tableau. 
-<li>Tableau: To create four visualisations to produce an interactive dashboard to show the different findings. 
+<li>Tableau: To create four visualizations to produce an interactive dashboard to show the different findings. 
 
 <img src="sqlTab/covidDashb.png" width="600"><br>
 

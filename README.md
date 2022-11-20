@@ -24,4 +24,4 @@ Total Deaths Per Continent: (Bar Chart), Global Numbers: (Text Table), Populatio
 <img src="sqlTab/CovidDash2.gif" width="600"><br>
 Average Population Infection by Percentage with forecasting: (Line Chart) and Population Infection Per Country Percentage: (Map Chart) in action.
 
-[Live Link]()
+[Live Link](https://public.tableau.com/views/CovidCasesDashboard_16687860876310/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)

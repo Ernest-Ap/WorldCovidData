@@ -1,5 +1,5 @@
 # WorldCovidData
-## SQL Queries using world Covid-19 data between 2020-2021. Next turning these query tables into visualisations then into a dashboard using Tableau Public.
+## Dashboard displaying world Covid-19 data between 2020-2021. Using SQL queries/tables, next turning them into visualisations then into a dashboard using Tableau.
 ### Images and Gifs below click to expand.
 
 Software used: 

@@ -4,8 +4,8 @@
 
 Software used: 
 <li>Microsoft SQL Server: For Data Exploration and to transfer the queries/tables to Excel. 
-<li>Microsoft Excel: To create four separate files/tables to import into Tableau Public. 
-<li>Tableau Public: To create four visualisations to produce an interactive dashboard to show the different findings. 
+<li>Microsoft Excel: To create four separate files/tables to import into Tableau. 
+<li>Tableau: To create four visualisations to produce an interactive dashboard to show the different findings. 
 
 <img src="sqlTab/covidDashb.png" width="600"><br>
 

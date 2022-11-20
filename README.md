@@ -20,8 +20,11 @@ Image of MSSQL query 3: Population Infection Per Country Percentage: (Map Chart)
 
 <img src="sqlTab/CovidDash1.gif" width="600"><br>
 Total Deaths Per Continent: (Bar Chart), Global Numbers: (Text Table), Population Infection Per Country Percentage: (Map Chart) in action. 
+Total deaths world wide around March/April 2021 was just over 3 million. Oceania death count was 1,046 the lowest across the globe around March/April 2021. 
+Japan's infection rate was 0.47% one of lowest world wide. 
 
 <img src="sqlTab/CovidDash2.gif" width="600"><br>
 Average Population Infection by Percentage with forecasting: (Line Chart) and Population Infection Per Country Percentage: (Map Chart) in action.
+United Kingdom has an average population infection rate 6.31% March 2021. 
 
 [Live Link](https://public.tableau.com/views/CovidCasesDashboard_16687860876310/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)

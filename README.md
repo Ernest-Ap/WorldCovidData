@@ -1,5 +1,6 @@
 # WorldCovidData
 ## SQL Queries using world Covid-19 data between 2020-2021. Next turning these query tables into visualisations then into a dashboard using Tableau Public.
+### Images and Gifs below click to expand.
 
 Software used: 
 <li>Microsoft SQL Server: For Data Exploration and to transfer the queries/tables to Excel. 

@@ -1,11 +1,21 @@
 # WorldCovidData
 ## Dashboard displaying world Covid-19 data between 2020-2021. Using SQL queries/tables, next turning them into visualizations then into a dashboard using Tableau.
 ### Images and Gifs below click to expand.
+<img src="sqlTab/1covdash.png" width="900"> 
 
-Software used: 
-<li>Microsoft SQL Server: For Data Exploration and to transfer the queries/tables to Excel. 
-<li>Microsoft Excel: To create four separate files/tables to import into Tableau. 
-<li>Tableau: To create four visualizations to produce an interactive dashboard to show the different findings. 
+In this report I will analyse world wide covid-19 data.
+
+### I will mention: 
+<li>Total Deaths Per Continent: (Bar Chart)
+<li>Global Numbers: (Text Table)
+<li>Population Infection Per Country Percentage: (Map Chart)
+<li>Average Population Infection by Percentage with predictive analysis or forecasting that's the wide set of lines to the right: (Line Chart)
+
+### Software used:
+<li>Microsoft SQL Server: For Data Exploration and to transfer the queries/tables to Excel.
+<li>Microsoft Excel: Created four separate files/tables to import into Tableau.
+<li>Tableau: Created four visualizations to produce an interactive dashboard to show the different findings.
+
 
 <img src="sqlTab/covidDashb.png" width="600"><br>
 

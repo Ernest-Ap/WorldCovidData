@@ -3,7 +3,7 @@
 ### Images and Gifs below click to expand.
 <img src="sqlTab/1covdash.png" width="900"> 
 
-In this report I will analyse world wide covid-19 data.
+In this report I will analyse worldwide covid-19 data.
 
 ### I will mention: 
 <li>Total Deaths Per Continent: (Bar Chart)

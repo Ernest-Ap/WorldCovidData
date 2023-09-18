@@ -38,7 +38,7 @@ In this report I will analyse world wide covid-19 data.
 
 <img src="sqlTab/co19dash.gif" width="750">
 
-### Oceania with 1,046 was the lowest death count out of all the continents. Overall global Death percentage of 2.11% this means that their were more infections then deaths. United Kingdom percent population infection was 6.53% not the highest but not the lowest. Sri Lanka has one of the lowest infection rates with an average of 0.41%. Another one of the lowest average infection rates was Namibia with 1.63% with a prediction rate going up to 3.61%. Namibia has a small population for its land size this could be a factor.
+### Oceania with 1,046 was the lowest death count out of all the continents. Overall global Death percentage of 2.11% this means that there were more infections than deaths. United Kingdom percent population infection was 6.53% not the highest but not the lowest. Sri Lanka has one of the lowest infection rates with an average of 0.41%. Another one of the lowest average infection rates was Namibia with 1.63% with a prediction rate going up to 3.61%. Namibia has a small population for its land size this could be a factor.
 <br>
 
 <img src="sqlTab/co19dash1.gif" width="750">
